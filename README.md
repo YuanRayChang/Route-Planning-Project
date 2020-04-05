@@ -6,7 +6,7 @@ This repo contains the starter code for the Route Planning project.
 
 ## Cloning
 ```
-https://github.com/YuanRayChang/Route-Planning-Project.git
+git clone https://github.com/YuanRayChang/Route-Planning-Project.git
 ```
 
 ## Dependencies for Running Locally
